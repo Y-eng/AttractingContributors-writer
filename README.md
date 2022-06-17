@@ -26,6 +26,6 @@ Please teach me your favorite McDonald's menu
 5.ハンバーガー  
 6.グランドビックマック  
 7.シャカチキ(レッドペッパー)
-8.
+8.倍ビッグマック
 9.
 10.
