@@ -13,3 +13,4 @@ Tell me please!
 8. 椎名誠　Shina Makooto
 9. 久保宣章
 10. 尾田栄一
+11. George Orwell
