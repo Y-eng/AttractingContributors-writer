@@ -12,4 +12,13 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 1. シャア専用ザク
 2. Zガンダム
-3. ザクII
+3. ユニコーンガンダム
+4. ターンX
+5. ガンダムseed
+6. 機動戦士ガンダム 逆襲のシャア
+7. ストライクフリーダムガンダム
+8. マスターガンダム
+9. 0ガンダム
+10. バンシィ
+11. JUSTICE GUNDAM
+12. ザクII
