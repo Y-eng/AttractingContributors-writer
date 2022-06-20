@@ -13,10 +13,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. シャア専用ザク
 2. Zガンダム
 3. ユニコーンガンダム
-4. ガンダムseed
-5. 機動戦士ガンダム 逆襲のシャア
-6. ストライクフリーダムガンダム
-7. マスターガンダム
-8. 0ガンダム
-9. バンシィ
-10. JUSTICE GUNDAM
+4. ターンX
+5. ガンダムseed
+6. 機動戦士ガンダム 逆襲のシャア
+7. ストライクフリーダムガンダム
+8. マスターガンダム
+9. 0ガンダム
+10. バンシィ
+11. JUSTICE GUNDAM
